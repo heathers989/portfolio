@@ -1,2 +1,0 @@
-# 
-ReadME for pie chart
